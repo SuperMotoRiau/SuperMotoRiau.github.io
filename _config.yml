@@ -1,7 +1,7 @@
 name: Super Moto Riau
 description: Template for a video blog.
-url: 'http://SuperMotoRiau.github.io'
-baseurl: '/SuperMotoRiau.github.io'
+url: http://SuperMotoRiau.github.io
+baseurl: http://SuperMotoRiau.github.io
 email: jekyll-video@example.com
 twitter: https://twitter.com/jekyll-video
 youtube: https://www.youtube.com/jekyll-video
